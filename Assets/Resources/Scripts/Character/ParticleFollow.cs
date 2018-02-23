@@ -22,16 +22,25 @@ public class ParticleFollow : MonoBehaviour {
 
         playerPos.x += Mathf.Cos(heading.y);
         playerPos.z -= Mathf.Sin(heading.y);
-
-        ParticleSystem ps = gameObject.GetComponent<ParticleSystem>();
-        var shape = ps.shape;
-        
         
         gameObject.transform.position = playerPos;
 
-        gameObject.transform.LookAt(player.transform.position);
+        Rigidbody rb = player.GetComponent<Rigidbody>();
+        ParticleSystem ps = gameObject.GetComponent<ParticleSystem>();
 
-        shape.rotation = gameObject.transform.rotation.eulerAngles;
+        float velocity = Vector3.Distance(Vector3.zero, rb.velocity);
+        var mm = ps.main;
+        mm.startSize3D = true;
+        mm.startSizeY = velocity;
+        mm.startRotation3D = false;
+        mm.startRotation = transform.rotation.eulerAngles.y * Mathf.Deg2Rad;
+        var em = ps.emission;
+        em.rateOverTime = Mathf.Pow(velocity, 2) / 5;
+        ps.Play();
+
+        //gameObject.transform.LookAt(player.transform.position);
+
+        //shape.rotation = gameObject.transform.rotation.eulerAngles;
 
         //Quaternion newRot = Quaternion.Euler(0, player.transform.eulerAngles.y, 0);
         //gameObject.transform.rotation = Quaternion.Lerp(oldRot, newRot, Time.deltaTime * 10);

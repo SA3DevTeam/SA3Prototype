@@ -1,0 +1,1062 @@
+newmtl ADVSS03_material_0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ast_hasi14.png
+newmtl ADVSS03_material_1
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ast_hasira04.png
+newmtl ADVSS03_material_2
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd bst_doora.png
+newmtl ADVSS03_material_3
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd containerf19.png
+newmtl ADVSS03_material_4
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd cst_hasira01.png
+newmtl ADVSS03_material_5
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd cst_hasira02.png
+newmtl ADVSS03_material_6
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd cst_kaidan06.png
+newmtl ADVSS03_material_7
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd cst_mado01.png
+newmtl ADVSS03_material_8
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd cst_sen01.png
+newmtl ADVSS03_material_9
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd dk2_door.png
+newmtl ADVSS03_material_10
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd dustkaidan05.png
+newmtl ADVSS03_material_11
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd duw70.png
+newmtl ADVSS03_material_12
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd duw71.png
+newmtl ADVSS03_material_13
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd duwyanesaku.png
+newmtl ADVSS03_material_14
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd duyuka03.png
+newmtl ADVSS03_material_15
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd duyukaa.png
+newmtl ADVSS03_material_16
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd duyukab.png
+newmtl ADVSS03_material_17
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ekiname02.png
+newmtl ADVSS03_material_18
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd elehasirahaji02.png
+newmtl ADVSS03_material_19
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd elehasirahaji03.png
+newmtl ADVSS03_material_20
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd elehasirahaji05.png
+newmtl ADVSS03_material_21
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd elehasirahaji06.png
+newmtl ADVSS03_material_22
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd era_s_hedb.png
+newmtl ADVSS03_material_23
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd grass0_t.png
+newmtl ADVSS03_material_24
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd hwbshadou0.png
+newmtl ADVSS03_material_25
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd kabe_01w.png
+newmtl ADVSS03_material_26
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd kanbandaigreen.png
+newmtl ADVSS03_material_27
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd kb_mado11.png
+newmtl ADVSS03_material_28
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd kio_hasira16.png
+newmtl ADVSS03_material_29
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd kio_hasira25.png
+newmtl ADVSS03_material_30
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd kio_hasira30.png
+newmtl ADVSS03_material_31
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd kio_hasira31.png
+newmtl ADVSS03_material_32
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd kiosk_tana03.png
+newmtl ADVSS03_material_33
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd load07.png
+newmtl ADVSS03_material_34
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd m128_cos012.png
+newmtl ADVSS03_material_35
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd m128_cos019.png
+newmtl ADVSS03_material_36
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd m128_cos020.png
+newmtl ADVSS03_material_37
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd m128_sand001.png
+newmtl ADVSS03_material_38
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd m32_tp04.png
+newmtl ADVSS03_material_39
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd m32_tp15.png
+newmtl ADVSS03_material_40
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd m64_tp2_007.png
+newmtl ADVSS03_material_41
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd m64_tp2_011.png
+newmtl ADVSS03_material_42
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ekiname02.png
+newmtl ADVSS03_material_43
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_door01.png
+newmtl ADVSS03_material_44
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_hashira01.png
+newmtl ADVSS03_material_45
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_hashira03.png
+newmtl ADVSS03_material_46
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_huchi01.png
+newmtl ADVSS03_material_47
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe01.png
+newmtl ADVSS03_material_48
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe04.png
+newmtl ADVSS03_material_49
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe05.png
+newmtl ADVSS03_material_50
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe06.png
+newmtl ADVSS03_material_51
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe08.png
+newmtl ADVSS03_material_52
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe09.png
+newmtl ADVSS03_material_53
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe11.png
+newmtl ADVSS03_material_54
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe12.png
+newmtl ADVSS03_material_55
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe13.png
+newmtl ADVSS03_material_56
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe14.png
+newmtl ADVSS03_material_57
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe15.png
+newmtl ADVSS03_material_58
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe16.png
+newmtl ADVSS03_material_59
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe17.png
+newmtl ADVSS03_material_60
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe18.png
+newmtl ADVSS03_material_61
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe19.png
+newmtl ADVSS03_material_62
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe20.png
+newmtl ADVSS03_material_63
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe21.png
+newmtl ADVSS03_material_64
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe22.png
+newmtl ADVSS03_material_65
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kabe23.png
+newmtl ADVSS03_material_66
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kusa01.png
+newmtl ADVSS03_material_67
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_kusa02.png
+newmtl ADVSS03_material_68
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_load01.png
+newmtl ADVSS03_material_69
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_load02.png
+newmtl ADVSS03_material_70
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_load03.png
+newmtl ADVSS03_material_71
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_plant01.png
+newmtl ADVSS03_material_72
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_plant02.png
+newmtl ADVSS03_material_73
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_plant03.png
+newmtl ADVSS03_material_74
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_pos01.png
+newmtl ADVSS03_material_75
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_pos02.png
+newmtl ADVSS03_material_76
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_shop01.png
+newmtl ADVSS03_material_77
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_shop02.png
+newmtl ADVSS03_material_78
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tenjyo01.png
+newmtl ADVSS03_material_79
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tenmado01.png
+newmtl ADVSS03_material_80
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex01.png
+newmtl ADVSS03_material_81
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex02.png
+newmtl ADVSS03_material_82
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex03.png
+newmtl ADVSS03_material_83
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex04.png
+newmtl ADVSS03_material_84
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex05.png
+newmtl ADVSS03_material_85
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex06.png
+newmtl ADVSS03_material_86
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex07.png
+newmtl ADVSS03_material_87
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex08.png
+newmtl ADVSS03_material_88
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex09.png
+newmtl ADVSS03_material_89
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex10.png
+newmtl ADVSS03_material_90
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex11.png
+newmtl ADVSS03_material_91
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex12.png
+newmtl ADVSS03_material_92
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex13.png
+newmtl ADVSS03_material_93
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex14.png
+newmtl ADVSS03_material_94
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex15.png
+newmtl ADVSS03_material_95
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex16.png
+newmtl ADVSS03_material_96
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex17.png
+newmtl ADVSS03_material_97
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex18.png
+newmtl ADVSS03_material_98
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex19.png
+newmtl ADVSS03_material_99
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex20.png
+newmtl ADVSS03_material_100
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_tex50.png
+newmtl ADVSS03_material_101
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_utsurikomi01.png
+newmtl ADVSS03_material_102
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_wind02.png
+newmtl ADVSS03_material_103
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_wind05.png
+newmtl ADVSS03_material_104
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_wind06.png
+newmtl ADVSS03_material_105
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_yane01.png
+newmtl ADVSS03_material_106
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_yane02.png
+newmtl ADVSS03_material_107
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_yane03.png
+newmtl ADVSS03_material_108
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_yuka02.png
+newmtl ADVSS03_material_109
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oudanhodou.png
+newmtl ADVSS03_material_110
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd s1rkabe_02.png
+newmtl ADVSS03_material_111
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd s1w_14.png
+newmtl ADVSS03_material_112
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd s2dnobu1.png
+newmtl ADVSS03_material_113
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd s2dwaku.png
+newmtl ADVSS03_material_114
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_conc0.png
+newmtl ADVSS03_material_115
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_conc2.png
+newmtl ADVSS03_material_116
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_conc3.png
+newmtl ADVSS03_material_117
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_conc5.png
+newmtl ADVSS03_material_118
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_conc6.png
+newmtl ADVSS03_material_119
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_conc7.png
+newmtl ADVSS03_material_120
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_conc8.png
+newmtl ADVSS03_material_121
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_geskuda0.png
+newmtl ADVSS03_material_122
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_gespanel0.png
+newmtl ADVSS03_material_123
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_geswaku0.png
+newmtl ADVSS03_material_124
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_gmadow0.png
+newmtl ADVSS03_material_125
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_hw_wall0.png
+newmtl ADVSS03_material_126
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_hw_wall1.png
+newmtl ADVSS03_material_127
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_hw_wall2.png
+newmtl ADVSS03_material_128
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_hw_yuka0.png
+newmtl ADVSS03_material_129
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_ita0.png
+newmtl ADVSS03_material_130
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_kiosk10.png
+newmtl ADVSS03_material_131
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_maga7.png
+newmtl ADVSS03_material_132
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_maga8.png
+newmtl ADVSS03_material_133
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_maga9.png
+newmtl ADVSS03_material_134
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_magazin11.png
+newmtl ADVSS03_material_135
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_magazin16.png
+newmtl ADVSS03_material_136
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_magazin17.png
+newmtl ADVSS03_material_137
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_magazin25.png
+newmtl ADVSS03_material_138
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_magazin26.png
+newmtl ADVSS03_material_139
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_oda66.png
+newmtl ADVSS03_material_140
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_odabill_a.png
+newmtl ADVSS03_material_141
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_odabill_b.png
+newmtl ADVSS03_material_142
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_odabill_c.png
+newmtl ADVSS03_material_143
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_pika4.png
+newmtl ADVSS03_material_144
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_shadow_koi.png
+newmtl ADVSS03_material_145
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_tex_60.png
+newmtl ADVSS03_material_146
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_wkabe.png
+newmtl ADVSS03_material_147
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ss_wkabe0.png
+newmtl ADVSS03_material_148
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd ssha.png
+newmtl ADVSS03_material_149
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd sshwb00.png
+newmtl ADVSS03_material_150
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd sshwb01.png
+newmtl ADVSS03_material_151
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd sshwb02.png
+newmtl ADVSS03_material_152
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd sshwb05.png
+newmtl ADVSS03_material_153
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd sshwb06.png
+newmtl ADVSS03_material_154
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd sshwb07.png
+newmtl ADVSS03_material_155
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd sskasanlight0.png
+newmtl ADVSS03_material_156
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd sskasanlight1.png
+newmtl ADVSS03_material_157
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd sswater00.png
+newmtl ADVSS03_material_158
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd st1_2.png
+newmtl ADVSS03_material_159
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd st_hotel_oda.png
+newmtl ADVSS03_material_160
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd todana08.png
+newmtl ADVSS03_material_161
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd tp1_2.png
+newmtl ADVSS03_material_162
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd tp1_7tatenaga.png
+newmtl ADVSS03_material_163
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd tp2_10.png
+newmtl ADVSS03_material_164
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd twbdoor01.png
+newmtl ADVSS03_material_165
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd twenthasira01.png
+newmtl ADVSS03_material_166
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd twkabe03_2.png
+newmtl ADVSS03_material_167
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd twkabe04.png
+newmtl ADVSS03_material_168
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd twkabe07.png
+newmtl ADVSS03_material_169
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd wshadow.png
+newmtl ADVSS03_material_170
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd yuka_01w.png
+newmtl ADVSS03_material_171
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd oda_ss_pos03.png
+newmtl ADVSS03_material_172
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd salt_tev00_00.png
+newmtl ADVSS03_material_173
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd salt_tev01_00.png
+newmtl ADVSS03_material_174
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd salt_tev02.png
+newmtl ADVSS03_material_175
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd salt_tev01_01.png
+newmtl ADVSS03_material_176
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+illum 1
+Map_Kd salt_tev01_red.png

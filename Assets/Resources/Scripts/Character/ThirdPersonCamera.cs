@@ -23,9 +23,9 @@ public class ThirdPersonCamera : MonoBehaviour {
         //The camera is following sonic, use his relative rotation to place the camera behind him 
         if (follow)
         {
-            playerPos.y += 5;
-            playerPos.x += Mathf.Cos(heading.y) * 10;
-            playerPos.z += Mathf.Sin(heading.y) * -10;
+            playerPos.y += 2;
+            playerPos.x += Mathf.Sin(heading.y) * -5;
+            playerPos.z += Mathf.Cos(heading.y) * -5;
         }
         else playerPos = pos;
 

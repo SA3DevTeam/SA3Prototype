@@ -32,17 +32,6 @@ public class PlayerController : MonoBehaviour {
         float jumpV = Input.GetAxis("Jump");
         float reduce = 1;
 
-        float velocity = Vector3.Distance(Vector3.zero, rb.velocity);
-        var mm = ps.main;
-        mm.startSize3D = true;
-        mm.startSizeY = velocity;
-        mm.startRotation3D = true;
-        mm.startRotationZ = transform.eulerAngles.y;
-        Debug.Log(mm.startRotationZ.curveMax + ", " + transform.eulerAngles.y);
-        var em = ps.emission;
-        em.rateOverTime = Mathf.Pow(velocity, 2) / 5;
-       
-
         //if (!grounded && !looping) reduce = 10; // reduces sonics movement when he's in the air
 
         //This statment gets the normal vector of the surface sonic is standing on and set his upward orientation relevnt to it while
@@ -57,7 +46,7 @@ public class PlayerController : MonoBehaviour {
 
         transform.Rotate(new Vector3(0, rotationSpeed * valueH,0));
         //Moves sonic forward and backwards
-        rb.AddRelativeForce(new Vector3(((speed * valueV * -1) / reduce), 0, 0));
+        rb.AddRelativeForce(new Vector3(0, 0, ((speed * valueV) / reduce)));
 
         //Detects if sonic is on the ground or on a loop and the jump button is pressed
         //This lets sonic jump
@@ -72,6 +61,7 @@ public class PlayerController : MonoBehaviour {
             Debug.Log("Homing Ready");
             HomingAttackOK = true;
             HAStage1 = false;
+            rb.velocity = new Vector3(rb.velocity.x, rb.velocity.y / 1.5f, rb.velocity.z);
         }
         //if sonic is in free fall we reorientate him to face upwards
         if (!grounded && !looping)
